@@ -1,6 +1,11 @@
 source 'https://rubygems.org'
 
 
+
+
+gem 'omniauth'
+
+gem 'omniauth-instagram'
 # install login system
 gem 'devise'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
